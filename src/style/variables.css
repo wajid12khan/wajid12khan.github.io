@@ -1,0 +1,15 @@
+:root {
+	--background-color: #fff;
+	--text-color: #121416d8;
+	--link-color: #543fd7;
+
+	/* Desktop */
+	--desktop-title: 36px; 
+
+	/* Tablet */
+	--tablet-title: 30px;
+
+	/* Mobile */
+	--mobile-title: 26px;
+
+}
